@@ -5,8 +5,10 @@ Roadmap via https://neetcode.io/roadmap
 __About__
 1. Basics of arrays and how to manipulate them.
 2. Introduction to hashing and its applications for fast data retrieval.
+--
 __Real-life Example__
 In a database, hashing is used to create indexes for quick data retrieval based on a certain key. This improves the efficiency of searching for records.
+--
 __Usage Example__
 Given an array of integers, find two numbers such that they add up to a specific target. You can use hashing to efficiently check if the complement of the current number exists in the array.
 
@@ -14,16 +16,20 @@ Given an array of integers, find two numbers such that they add up to a specific
 __About__
 1. Understanding the stack data structure and its applications.
 2. Implementing a stack and solving problems using it.
+--
 __Real-life Example__
 A stack is often used to keep track of user actions, allowing them to undo operations step by step.
+--
 __Usage Example__
 Implement a function to check if a given string of parentheses is balanced. You can use a stack to keep track of the opening and closing brackets.
 
 ## Section 3: Two Pointers
 __About__
 1. Techniques involving two pointers to solve problems efficiently.
+--
 __Real-life Example__
 Two pointers can be used to efficiently track the positions of two vehicles in a fleet, optimizing routes and reducing travel time.
+--
 __Usage Example__
 Given a sorted array, find two numbers that sum to a specific target. Use two pointers starting from both ends, moving towards the center to efficiently find the pair.
 
@@ -31,16 +37,20 @@ Given a sorted array, find two numbers that sum to a specific target. Use two po
 __About__
 1. Understanding the binary search algorithm and its applications.
 2. Solving problems related to searching and optimization using binary search.
+--
 __Real-life Example__
 When looking for a contact in a sorted phonebook, binary search can be applied to quickly locate the contact's position.
+--
 __Usage Example__
 Given a sorted array, implement a function to perform binary search to find the index of a target element.
 
 ## Section 5: Sliding Window
 __About__
 1. Introduction to the sliding window technique for efficiently processing arrays or lists.
+--
 __Real-life Example__
 When analyzing temperature trends over a period, a sliding window can be used to efficiently compute average temperatures and identify patterns.
+--
 __Usage Example__
 Find the maximum sum of a subarray of a fixed size k in a given array. Use the sliding window technique to efficiently compute the sum as you move through the array.
 
