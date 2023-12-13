@@ -1,4 +1,6 @@
 # LeetCode (lang: JavaScript)
+![JavaScript Logo](https://github.com/lymphoidcell/leetcode_in_js/blob/main/JavaScript-logo.png)
+
 Roadmap via https://neetcode.io/roadmap
 
 ## Section 1: Arrays & Hashing
