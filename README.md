@@ -1,4 +1,4 @@
-# LeetCode (lang: JavaScript) <img src="https://github.com/lymphoidcell/leetcode_in_js/blob/main/JavaScript-logo.png" alt="JavaScript Logo" width="20" height="20">
+# LeetCode (lang: JavaScript <img src="https://github.com/lymphoidcell/leetcode_in_js/blob/main/JavaScript-logo.png" alt="JavaScript Logo" width="20" height="20">)
 
 Roadmap via https://neetcode.io/roadmap
 
